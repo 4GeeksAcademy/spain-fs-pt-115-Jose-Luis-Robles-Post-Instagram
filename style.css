@@ -10,7 +10,6 @@ body {
   padding: 20px;
 }
 
-/* Post general */
 .post {
   max-width: 500px;
   margin: 0 auto;
@@ -20,7 +19,6 @@ body {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
-/* Header del post */
 .post-header {
   display: flex;
   align-items: center;
@@ -44,14 +42,12 @@ body {
     margin-left: auto
 }
 
-/* Imagen del post */
 .post-body img {
   width: 100%;
   height: auto;
   display: block;
 }
 
-/* Footer del post */
 .post-footer {
   padding: 10px 15px;
 }
